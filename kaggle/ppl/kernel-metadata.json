@@ -1,0 +1,3 @@
+{"id": "partum55/hw3-ppl", "title": "hw3-ppl", "code_file": "ppl.py", "language": "python", "kernel_type": "script",
+ "is_private": true, "enable_gpu": true, "enable_internet": true,
+ "dataset_sources": ["partum55/hw3-split"], "competition_sources": ["ai-generated-text-detection-hw3-ucu-ai-2026"], "kernel_sources": []}

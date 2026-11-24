@@ -1,0 +1,3 @@
+{"id": "partum55/hw3-enc", "title": "hw3-enc", "code_file": "enc.py", "language": "python", "kernel_type": "script",
+ "is_private": true, "enable_gpu": true, "enable_internet": true,
+ "dataset_sources": ["partum55/hw3-split"], "competition_sources": ["ai-generated-text-detection-hw3-ucu-ai-2026"], "kernel_sources": []}
